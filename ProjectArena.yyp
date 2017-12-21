@@ -87,11 +87,27 @@
             }
         },
         {
+            "Key": "529eba73-4f1e-470c-ab2a-7806611f77b5",
+            "Value": {
+                "id": "d9588f45-1f2f-4b95-a692-7710fd7742af",
+                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "69854f11-7178-4de5-b60e-d83f6ac521f7",
             "Value": {
                 "id": "ea62285e-54d3-4316-8ee6-7420000d63f0",
                 "resourcePath": "views\\69854f11-7178-4de5-b60e-d83f6ac521f7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8c0a4fe1-a7e9-43f5-a1bc-0d101f9e57bd",
+            "Value": {
+                "id": "ee58250e-6626-45d8-9a2e-f8155bf0b3c3",
+                "resourcePath": "scripts\\get_input\\get_input.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -108,6 +124,14 @@
                 "id": "49726561-1f2c-421a-8875-cfc62bf658f8",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ad858a05-13fc-401b-bd44-a91340bb45db",
+            "Value": {
+                "id": "6d266f9c-e413-47f4-9c39-cf48e9e6ae3a",
+                "resourcePath": "sprites\\sprite_player_walk\\sprite_player_walk.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -135,6 +159,14 @@
             }
         },
         {
+            "Key": "ccbec2e4-d4bf-4113-9165-7b4a54246981",
+            "Value": {
+                "id": "81f705cd-fd5c-4e6f-b3c3-ac3eb299ead8",
+                "resourcePath": "sprites\\sprite_tileset\\sprite_tileset.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d18f7103-063d-47af-972d-4da458ce848d",
             "Value": {
                 "id": "863c0afe-b8e0-4f2b-8f5f-5951fde4c0ea",
@@ -156,6 +188,14 @@
                 "id": "1580fcf6-b38c-400d-8dc4-5e48a840264b",
                 "resourcePath": "views\\d7abbc3f-887d-4894-98cf-64ba2b8b3fee.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "de02dc32-037d-4721-80a0-22bacfaee06a",
+            "Value": {
+                "id": "623782bd-e817-4f10-b071-da158114fa48",
+                "resourcePath": "objects\\object_player1\\object_player1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -192,7 +232,7 @@
         }
     ],
     "script_order": [
-        
+        "8c0a4fe1-a7e9-43f5-a1bc-0d101f9e57bd"
     ],
     "tutorial": ""
 }
