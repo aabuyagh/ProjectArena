@@ -1,9 +1,6 @@
-/// @Player movement
+/// @description Move State
 
-get_input(0)
-
-show_debug_message(horizontalMovement);
-show_debug_message(verticalMovement);
+get_input(player_number)
 hspeed = spd*horizontalMovement;
 vspeed = spd*verticalMovement;
 	
